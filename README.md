@@ -1,1 +1,1 @@
-# Tensorflow-Model-Trained-with-weather-image-data
+# Tensorflow-Model-Trained-on-weather-image-data
